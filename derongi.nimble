@@ -2,7 +2,7 @@
 
 version       = "0.1.0"
 author        = "Sho Minagawa"
-description   = "\".gitignore\" management tool"
+description   = "Project-specific \".gitignore\" generator."
 license       = "MIT"
 srcDir        = "src"
 bin           = @["derongi"]
